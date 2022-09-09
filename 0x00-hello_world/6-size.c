@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - Main block, The program should print the size of the various data types
+ * main - main block, The program should print the size of various types
  * Return: 0
  */
 
