@@ -2,7 +2,7 @@
 /**
  *main-Print using puts function
  *puts printinto standard output
- *Return o to whoever calls it
+ *Return: 0
 */
 
 int main(void)
