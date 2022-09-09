@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Main block prints using printf function
+ * main - Main block,This block prints the statement
  * Return - 0
  */
 int main(void)
