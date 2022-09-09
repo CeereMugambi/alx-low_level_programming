@@ -1,6 +1,6 @@
 #include <stdio.h> /*Header*/
 /**
- *main is the entry point with no arguments
+ *main-Print using puts function
  *puts printinto standard output
  *Return o to whoever calls it
 */
