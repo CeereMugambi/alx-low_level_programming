@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - Main block, This should print the size of the various data types
+ * main - Main block, The program should print the size of the various data types
  * Return: 0
  */
 
@@ -8,8 +8,8 @@ int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
 	printf("Size of an int: %i byte(s)\n", sizeof(int));
-	printf("Size of long int: %i byte(s)\n", sizeof(long int));
-	printf("Size of long long int: %i byte(s)\n", sizeof(long long int));
-	printf("SIze of float: %i byte(s)\n", sizeof(float));
+	printf("Size of a long int: %i byte(s)\n", sizeof(long int));
+	printf("Size of a long long int: %i byte(s)\n", sizeof(long long int));
+	printf("SIze of a float: %i byte(s)\n", sizeof(float));
 	return (0);
 }
