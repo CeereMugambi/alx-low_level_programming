@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Main block,This block prints the statement
- * Return - 0 to whoever called it
+ * Return : 0 to whoever called it
  */
 int main(void)
 {
