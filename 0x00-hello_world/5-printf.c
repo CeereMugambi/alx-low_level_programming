@@ -3,7 +3,7 @@
  * main - Main block prints using printf function
  * Return - 0
  */
-int mai(void)
+int main(void)
 {
 	printf("with proper grammar,but the outcome is a piece of art,\n");
 	return (0);
