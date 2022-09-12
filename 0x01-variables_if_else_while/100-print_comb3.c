@@ -5,7 +5,8 @@
  * Description: This program prints all possible different combinations of 2 digits
  * Return: 0
  */
- int main(void)
+
+int main(void)
 {
 	int c;
 	int d = 0;
