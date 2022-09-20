@@ -19,7 +19,7 @@ int is_numerical(unsigned int n)
 
 int _atoi(char *s)
 {
-	unsigned int num , i;
+	unsigned int num, i;
 	int sign;
 
 	sign = 1;
@@ -41,5 +41,5 @@ int _atoi(char *s)
 		}
 	}
 
-	return (num *sign);
+	return (num * sign);
 }
