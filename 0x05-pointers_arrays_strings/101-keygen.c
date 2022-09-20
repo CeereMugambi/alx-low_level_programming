@@ -17,5 +17,5 @@ int main(void)
 	num = rand();
 	printf("%i\n" , num);
 
-	return (o);
+	return (0);
 }
