@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Print_rev - Prints a string in reverse
+ * print_rev - Prints a string in reverse
  * @s: pointer to int that will be updated
  *
  * Return: Void when output is correct
