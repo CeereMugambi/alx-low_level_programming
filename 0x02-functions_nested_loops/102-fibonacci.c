@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * Description: Prints first 50 fibonacci numbers
- * 		starting with 1 and 2
+ * starting with 1 and 2
  * Return: 0
  */
 
