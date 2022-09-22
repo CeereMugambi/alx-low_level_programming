@@ -19,8 +19,9 @@ void more_numbers(void)
 				_putchar(1 +48);
 				i = count % 10;
 			}
-			_putchar('\n');
+			_putchar(i + 48);
 		}
+		_putchar('\n');
 
 	}
 }
