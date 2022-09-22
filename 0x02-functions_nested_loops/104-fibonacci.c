@@ -10,7 +10,7 @@ int numLength(int num)
 {
 	int length = 0;
 
-	int (!num)
+	if (!num)
 		return (1);
 
 	while (num)
